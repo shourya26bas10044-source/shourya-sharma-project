@@ -1,6 +1,6 @@
-# 🧮 ADVANCED MATHEMATICS CALCULATOR
+#  ADVANCED MATHEMATICS CALCULATOR
 
-## 📌 Project Description
+## Project Description
 
 The **Advanced Mathematics Calculator** is a menu-driven Python program designed to perform a wide range of mathematical calculations using simple Python programming concepts.
 
@@ -12,7 +12,7 @@ It is designed for students to understand how mathematical concepts can be imple
 
 ---
 
-## ✨ Features
+##  Features
 
 The calculator provides the following features:
 
@@ -108,7 +108,7 @@ The calculator provides the following features:
 
 ---
 
-## 🧠 Mathematical Methods Used
+##  Mathematical Methods Used
 
 The project implements several mathematical algorithms manually.
 
@@ -144,7 +144,7 @@ Binary, octal and hexadecimal conversions are implemented manually rather than u
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Programming Language:** Python
 - **Interface:** Console / Terminal
@@ -155,7 +155,7 @@ The project is intentionally developed using fundamental Python concepts.
 
 ---
 
-## 📂 Main Menu
+##  Main Menu
 
 ```text
 ========== ADVANCED MATHEMATICS CALCULATOR ==========
@@ -178,7 +178,7 @@ The project is intentionally developed using fundamental Python concepts.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Step 1: Install Python
 
@@ -208,7 +208,7 @@ Run → Run Module
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 The project does not require external Python packages.
 
@@ -222,7 +222,7 @@ No installation of NumPy, SciPy, Matplotlib or other third-party libraries is re
 
 ---
 
-## 🔢 Example
+##  Example
 
 ### Arithmetic Calculation
 
@@ -240,7 +240,7 @@ Division = 5
 
 ---
 
-## 🛡️ Input Validation
+##  Input Validation
 
 The program includes validation for important inputs such as:
 
@@ -256,7 +256,7 @@ This helps prevent the program from crashing during normal use.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -271,7 +271,7 @@ The main objectives of this project are:
 
 ---
 
-## 📚 Concepts Demonstrated
+##  Concepts Demonstrated
 
 This project demonstrates knowledge of:
 
@@ -293,7 +293,7 @@ This project demonstrates knowledge of:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Possible future versions can include:
 
@@ -311,7 +311,7 @@ Possible future versions can include:
 
 ---
 
-## 👨‍💻 Project Type
+##  Project Type
 
 **Academic / Educational Python Project**
 
